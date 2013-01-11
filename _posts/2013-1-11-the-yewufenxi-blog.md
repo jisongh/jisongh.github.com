@@ -5,8 +5,7 @@ tags : [开始]
 title : [业务分析]
 ---
 
-<div class="basetop"><a href="#" onclick="expandAll(document.getElementById('base'))">Expand</a> -
-<a href="#" onclick="collapseAll(document.getElementById('base'))">Collapse</a></div><div id="base" class="basetext"><ul>
+<p><div id="base" class="basetext"><ul>
 	<li class="col" id="FMID_1235535840FM"><div class="nodecontent" style="color:#000000;font-size:167%;">编写业务分析说明书</div>
 		<ul class="subexp">
 	<li class="col" id="FMID_845744109FM"><img src="业务分析.html_files/icons/full-1.png" alt="full-1"/> <div class="nodecontent" style="color:#0033ff;font-size:150%;">WHO</div>
@@ -65,4 +64,4 @@ title : [业务分析]
 	<li class="basic" id="FMID_1993321186FM"><div class="nodecontent" style="color:#990000;font-size:117%;">以实体对象为中心分析业务信息之间的依赖关系</div></li></ul></li>
 	<li class="col" id="FMID_142043156FM"><div class="nodecontent" style="color:#00b439;font-size:133%;">第五章 数据结构</div>
 		<ul class="subexp">
-	<li class="basic" id="FMID_298142515FM"><div class="nodecontent" style="color:#990000;font-size:117%;">定义各类信息实体的数据结构、类型和处理规则</div></li></ul></li></ul></li></ul></li></ul></div>
+	<li class="basic" id="FMID_298142515FM"><div class="nodecontent" style="color:#990000;font-size:117%;">定义各类信息实体的数据结构、类型和处理规则</div></li></ul></li></ul></li></ul></li></ul></div></p>
